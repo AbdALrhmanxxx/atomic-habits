@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Global CSS */
+.fake-dark-mode {
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+}
+
+.fake-dark-mode header {
+  background-color: #0a0a0a;
+}
+
+.fake-dark-mode .bg-white {
+  background-color: #2d2d2d;
+}
+
+.fake-dark-mode .text-gray-800 {
+  color: #e6e6e6;
+}
+
+.fake-dark-mode .text-gray-600 {
+  color: #b3b3b3;
+}
